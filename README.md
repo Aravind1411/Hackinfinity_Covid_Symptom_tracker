@@ -15,4 +15,4 @@ HEROKU platform
 1.Run the hackinfinity.py and then app.py<br>
 2.Website will be displayed in the localhost server<br>
  or <br>
- Fork and deploy it any of the cloud platforms.
+ Fork and deploy it in any of the cloud platforms.
