@@ -1,5 +1,5 @@
 # Hackinfinity_Covid_Symptom_tracker
-The end-to-end system developed is an End user input based Web application. It
+The end-to-end system developed is an  user input based Web application. It
 takes the input from the user for their details and shows a list of symptoms which
 they may be experiencing. On the basis of their entered choices the received
 input will be processed and their probability will be shown to them. If the
